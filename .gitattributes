@@ -1,3 +1,1 @@
-*.py linguist-language=Python
-*.js linguist-language=JavaScript
-*.java linguist-language=Java
+* text=auto eol=lf
